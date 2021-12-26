@@ -7,7 +7,6 @@ Welcome to my GitHub profile. I'm WordPress Developer. Knock me: m.facebook.com/
 - 🌱 I’m currently learning **Laravel, Vue, MERN Stack**
 
 - 👨‍💻 All of my projects are available at [https://monikaakter.ml](https://monikaakter.ml)
-- Netlify Portfolio: [https://quirky-mestorf-1440c8.netlify.app/](https://quirky-mestorf-1440c8.netlify.app/)
 
 - 📫 How to reach me **monikaakterfreelancerbd@gmail.com**
 
